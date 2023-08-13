@@ -9,3 +9,8 @@
 
 This framework is designed to optimize large-scale processing of Earth observation data on a single desktop node by leveraging the functionality of the Dask package. 
 The workflow demonstration can be found in the "Demo.ipynb" file.
+
+For information on the preliminary preprocessing and data sources of the optical and SAR data used in this demo, please refer to the following links below:
+
+**Optical :**  https://github.com/asifatharuna/Sentinel2_GEE/tree/main   
+**Synthetic Aperture Radar (SAR) :**   https://github.com/asifatharuna/analysis_ready_SAR
